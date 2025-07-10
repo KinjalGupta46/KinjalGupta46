@@ -27,8 +27,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/></a>
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinjalgupta46&show_icons=true&theme=github_dark" alt="Kinjal's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjalgupta46&theme=github-dark" alt="GitHub Streak" height="160"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinjalgupta46&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinjalgupta46&show_icons=true&theme=github_dark&layout=compact&locale=en" alt="Top Languages" />
 </p>
-
