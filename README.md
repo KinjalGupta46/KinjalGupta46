@@ -6,8 +6,7 @@
 - 💼 Web Development Intern, SkillCraft Technology (May 2025 - July 2025)
 - 🚀 Passionate about building interactive web applications and solving real-world problems using code.
 - 📫 Email: <a href="mailto:KinjalGupta038@gmail.com">KinjalGupta038@gmail.com</a>
-<p>🚀 Passionate about building interactive web applications and solving real-world problems using code.
-</p>
+
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kinjalgupta06k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
