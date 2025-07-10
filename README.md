@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 
 - 🎓 B.Tech. in Computer Science and Engineering, SRM (Expected 2027)
-- 💼 Web Development Intern, SkillCraft Technology (May 2025 - July 2025)
+- 💼 Web Development Intern, SkillCraft Technology (June 2025 - July 2025)
 - 🚀 Passionate about building interactive web applications and solving real-world problems using code.
 - 📫 Email: <a href="mailto:KinjalGupta038@gmail.com">KinjalGupta038@gmail.com</a>
 
