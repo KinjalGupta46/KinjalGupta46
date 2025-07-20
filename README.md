@@ -29,9 +29,13 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kinjalgupta46&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjalgupta46&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalgupta46&theme=github_dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kinjalgupta46&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" />
 </p>
