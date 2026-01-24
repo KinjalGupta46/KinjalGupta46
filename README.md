@@ -28,7 +28,7 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjalgupta46&theme=dark&hide_border=false" alt="GitHub Streak" />
