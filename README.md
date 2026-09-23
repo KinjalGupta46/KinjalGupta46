@@ -71,13 +71,11 @@ Computer Science undergraduate exploring **Software Development, Data Analytics 
 ### 📊 GitHub Stats
 
 <p align="center">
-
-<img
-  src="https://github-statspro.vercel.app/api/stats/KinjalGupta46?theme=default&commits_year=all"
-  alt="GitHub Stats"
-  width="100%"
-/>
-
+  <img
+    src="https://github-statspro.vercel.app/api/stats/KinjalGupta46?theme=default"
+    alt="GitHub Stats"
+    width="100%"
+  />
 </p>
 
 </td>
