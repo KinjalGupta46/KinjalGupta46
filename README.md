@@ -13,14 +13,24 @@
 <a href="https://www.linkedin.com/in/kinjalgupta06k">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:KinjalGupta038@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
 &nbsp;
+
+<a href="https://github.com/KinjalGupta46">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 <div align="center">
 
@@ -43,25 +53,34 @@
 
 ---
 
-<table align="center">
+<!-- ===================== ABOUT + STATS ===================== -->
+
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 👩‍💻 About Me
+### 🧑‍💻 About Me
 
-Computer Science undergraduate exploring Software Development, Data Analytics & AI. I’m curious about how things work and even more curious about what I can build with them.
-Thoda code, thoda chaos, kaafi learning.
+Computer Science undergraduate exploring **Software Development, Data Analytics & AI**. I’m curious about how things work and even more curious about what I can build with them.
+
+*Thoda code, thoda chaos, kaafi learning. 🚀*
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧩 Currently Exploring
+### 📊 GitHub Stats
 
-```text
-AI / ML       █████████░  90%
-Data          ████████░░  80%
-Backend       ████████░░  80%
-Generative AI ███████░░░  70%
-DSA           ███████░░░  70%
+<p align="center">
+  <img
+    src="https://github-statspro.vercel.app/api/stats/KinjalGupta46?theme=default"
+    alt="GitHub Stats"
+    width="100%"
+  />
+</p>
+
+</td>
+
+</tr>
+</table>
